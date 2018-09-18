@@ -8,3 +8,4 @@ class TestPowerFunction(unittest.TestCase):
     
     def test_returns_power_values(self):
         self.assertEqual(power(3, 4), 81)
+        
